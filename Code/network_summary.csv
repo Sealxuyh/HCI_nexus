@@ -1,0 +1,2 @@
+name,N_nodes,M_edges,density,n_components,gcc_frac,avg_degree,max_degree,avg_path_len_GCC,diameter_GCC,global_efficiency,avg_clustering
+Integrated,103,122,0.02322482391014658,1,1.0,2.3689320388349513,16,5.96097468113459,11,0.21735489429664145,0.0340499306518724
